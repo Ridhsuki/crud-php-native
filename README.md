@@ -13,33 +13,26 @@ This project is an archive of my learning process and personal PHP practice.
 
 ---
 
-## 📷 Screenshots
-
-Here are some screenshots showing the results of this CRUD application:
-
-1. **Main Index Page**  
-   ![Main Index Page](https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_302_lmqbkf.png)
-
-2. **Create New Student Data Page**  
-   ![Create New Student](https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_303_iiniab.png)
-
-3. **Edit Student Data Page**  
-   ![Edit Student](https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949536/Screenshot_304_bziwo9.png)
-
-4. **API Response in JSON Format**  
-   ![API JSON](https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_300_pfcisn.png)
-
-5. **Integration Page Showing Data from API**  
-   ![Integration Page](https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_301_v23imh.png)
-
-6. **Delete Confirmation with Browser Alert**  
-   ![Delete Alert](https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949536/Screenshot_305_wd8ncl.png)
-
----
-
 ## 🌐 Demo
 
 You can try this application live by visiting [basukiridhoo.kesug.com/belajar-native/index.php](https://basukiridhoo.kesug.com/belajar-native/index.php).
+
+---
+
+## 📷 Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;" align="center">
+    <img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_302_lmqbkf.png" width="400" alt="Main Index Page Screenshot">
+    <img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_303_iiniab.png" width="400" alt="Create New Student Screenshot">
+    <img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949536/Screenshot_304_bziwo9.png" width="400" alt="Edit Student Screenshot">
+    <img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949536/Screenshot_305_wd8ncl.png" width="400" alt="Delete Alert Screenshot">
+    <a href="https://basukiridhoo.kesug.com/belajar-native/api/v1.php" target="_blank">
+       <img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_300_pfcisn.png" width="400" alt="API JSON Screenshot">
+    </a>
+   <a href="https://basukiridhoo.kesug.com/belajar-native/integrasi/index.php" target="_blank">
+      <img src="https://res.cloudinary.com/dv8jmnzaf/image/upload/v1744949535/Screenshot_301_v23imh.png" width="400" alt="Integration Page Screenshot">
+   </a>
+</div>
 
 ---
 
@@ -47,7 +40,7 @@ You can try this application live by visiting [basukiridhoo.kesug.com/belajar-na
 
 - **PHP** (Native)
 - **MySQL** (for the database)
-- **HTML, CSS, JavaScript** (for the frontend)
+- **HTML, CSS, Bootstrap** (for the frontend)
 - **API** (for data integration)
 
 ---
@@ -57,7 +50,5 @@ You can try this application live by visiting [basukiridhoo.kesug.com/belajar-na
 If you want to connect or follow my other projects, here are my social media profiles:
 
 [Instagram](https://www.instagram.com/basukiridhoal/) | [Tiktok](https://www.tiktok.com/@ritsuchi_dev) | [Facebook](https://www.facebook.com/basuki.ridho.921/) | [LinkedIn](https://www.linkedin.com/in/basuki-ridho)  
-[Threads](https://www.threads.net/@basukiridhoal) | [GitHub](https://github.com/Ridhsuki/) | [BlueSky](https://bsky.app/profile/ridhsuki.bsky.social) | [YouTube - Second Channel](https://www.youtube.com/@RIDHO_AG)  
+[Threads](https://www.threads.net/@basukiridhoal) | [GitHub](https://github.com/Ridhsuki/) | [BlueSky](https://bsky.app/profile/ridhsuki.bsky.social) | [YouTube](https://www.youtube.com/@basukiridhoal)  
 [Website](https://ridhsuki.my.id/)
-
----
