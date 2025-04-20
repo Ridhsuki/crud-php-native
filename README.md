@@ -113,3 +113,11 @@ If you want to connect or follow my other projects, here are my social media pro
 [Instagram](https://www.instagram.com/basukiridhoal/) | [Tiktok](https://www.tiktok.com/@ritsuchi_dev) | [Facebook](https://www.facebook.com/basuki.ridho.921/) | [LinkedIn](https://www.linkedin.com/in/basuki-ridho)  
 [Threads](https://www.threads.net/@basukiridhoal) | [GitHub](https://github.com/Ridhsuki/) | [BlueSky](https://bsky.app/profile/ridhsuki.bsky.social) | [YouTube](https://www.youtube.com/@basukiridhoal)  
 [Website](https://ridhsuki.my.id/)
+
+---
+
+## 📄 License
+
+This repository is open-source and licensed under the [MIT License](LICENSE).  
+See the LICENSE file for more details.
+
