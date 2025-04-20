@@ -89,7 +89,7 @@ $pw = '';             // default MySQL password (empty)
 $db = 'db_native';    // database name
 ```
 
-### 4. Run the Project
+### 5. Run the Project
 
 Now, you're ready to run the project!
 1. Open your terminal in the project folder.
