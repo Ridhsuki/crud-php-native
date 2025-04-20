@@ -44,6 +44,67 @@ You can try this application live by visiting [basukiridhoo.kesug.com/belajar-na
 - **API** (for data integration)
 
 ---
+## 🚀 How to Run This Project
+
+Follow these steps to get the project running on your local machine:
+
+### 1. Clone the Repository
+
+First, clone this repository to your local machine using Git. Run this command in your terminal or Git Bash:
+
+```bash
+git clone https://github.com/Ridhsuki/crud-php-native.git
+```
+
+### 2. Start Local Server
+
+You can use **XAMPP** or **Laragon** to run a local server.
+
+#### Using XAMPP:
+- Open **XAMPP** and start the **Apache** and **MySQL** services.
+- Make sure Apache is running on port `80` and MySQL is running on port `3306`.
+
+#### Using Laragon:
+- Open **Laragon** and click **Start All** to start Apache/Nginx and MySQL.
+
+### 3. Import Database
+
+The database file is located inside the <a href="https://github.com/Ridhsuki/crud-php-native/tree/main/database"> `database`</a> folder in this repository. To import the database:
+
+#### Using phpMyAdmin (XAMPP or Laragon):
+1. Open your browser and go to <a href="http://localhost/phpmyadmin">`http://localhost/phpmyadmin`</a>.
+2. Create a new database (e.g., `db_native`).
+3. Select the new database, then go to the **Import** tab.
+4. Click **Choose File**, find and select `db_native.sql` from the `database` folder in the repository.
+5. Click **Go/Import** to import the database.
+
+### 4. Configure Database Connection
+
+Make sure the database connection is set up properly. Open the file <a href="https://github.com/Ridhsuki/crud-php-native/blob/main/connect.php">`connect.php`</a>, and make sure the database settings are correct:
+
+```php
+$host = 'localhost';
+$user = 'root';       // default MySQL username
+$pw = '';             // default MySQL password (empty)
+$db = 'db_native';    // database name
+```
+
+### 4. Run the Project
+
+Now, you're ready to run the project!
+1. Open your terminal in the project folder.
+2. Run the following command:
+
+   ```bash
+   php -S localhost:8000
+   ```
+3. Open your browser and go to:
+   ```bash
+   http://localhost:8000
+   ```
+This will start the local web server and you can view the project in your browser.
+
+---
 
 ## 💬 Find Me on Social Media
 
