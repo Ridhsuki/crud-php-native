@@ -16,7 +16,7 @@ function respon_data($code, $msg, $data = null)
     echo json_encode($res);
 }
 
-$requireds = ['nis', 'nama', 'telp', ' gender', 'alamat'];
+$requireds = ['nis', 'nama', 'telp', 'gender', 'alamat'];
 function validate_required_field(array $input, array $requireds)
 {
     foreach ($requireds as $required) {
